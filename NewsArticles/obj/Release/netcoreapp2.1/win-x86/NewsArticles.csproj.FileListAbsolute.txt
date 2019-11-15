@@ -1,0 +1,10 @@
+C:\Projects\NewsArticles\NewsArticles\bin\Release\netcoreapp2.1\win-x86\NewsArticles.deps.json
+C:\Projects\NewsArticles\NewsArticles\bin\Release\netcoreapp2.1\win-x86\NewsArticles.runtimeconfig.json
+C:\Projects\NewsArticles\NewsArticles\bin\Release\netcoreapp2.1\win-x86\NewsArticles.runtimeconfig.dev.json
+C:\Projects\NewsArticles\NewsArticles\bin\Release\netcoreapp2.1\win-x86\NewsArticles.dll
+C:\Projects\NewsArticles\NewsArticles\bin\Release\netcoreapp2.1\win-x86\NewsArticles.pdb
+C:\Projects\NewsArticles\NewsArticles\obj\Release\netcoreapp2.1\win-x86\NewsArticles.csproj.CoreCompileInputs.cache
+C:\Projects\NewsArticles\NewsArticles\obj\Release\netcoreapp2.1\win-x86\NewsArticles.AssemblyInfoInputs.cache
+C:\Projects\NewsArticles\NewsArticles\obj\Release\netcoreapp2.1\win-x86\NewsArticles.AssemblyInfo.cs
+C:\Projects\NewsArticles\NewsArticles\obj\Release\netcoreapp2.1\win-x86\NewsArticles.dll
+C:\Projects\NewsArticles\NewsArticles\obj\Release\netcoreapp2.1\win-x86\NewsArticles.pdb
